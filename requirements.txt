@@ -1,0 +1,10 @@
+faiss
+numpy
+fitz
+os 
+torch
+streamlit
+requests
+typing
+langchain 
+sentence-transformers
