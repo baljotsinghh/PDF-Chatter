@@ -1,10 +1,7 @@
-faiss
-numpy
-fitz
-os 
-torch
 streamlit
+torch
+faiss-cpu
+numpy
+PyMuPDF  # this is 'fitz'
 requests
-typing
-langchain 
 sentence-transformers
